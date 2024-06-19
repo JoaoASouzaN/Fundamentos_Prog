@@ -5,9 +5,9 @@ Este repositório é dedicado aos fundamentos da programação, fornecendo exemp
 # Linguagens de marcação e/ou estilo:
 
 <h1>Sintaxe</h1>
-    1- <a href="Linguagem_De_Marc/Markdown.md">Markdown</a><br>
-    2- <a href="https://github.com/JoaoASouzaN/">HTML</a><br>
-    3- <a href="https://github.com/JoaoASouzaN/">CSS</a><br>
+    1- <a href="Linguagem_De_Marc/markdown_sintaxe.md">Markdown</a><br>
+    2- <a href="Linguagem_De_Marc/html_sintaxe.html/">HTML</a><br>
+    3- <a href="Linguagem_De_Marc/css_sintaxe.css/">CSS</a><br>
 <h1></h1>    
 
 <h1>Linguagens de Programação:<br><br>Sintaxes</h1>
