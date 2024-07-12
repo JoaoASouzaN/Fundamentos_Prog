@@ -24,12 +24,12 @@ Outra possibilidade presente no markdown é a criação de notas de rodapé, \[^
 # Exemplos:
 
 
-# Titulo
-## Sub-Titulo 1
-### Sub-Titulo 2
-#### Sub-Titulo 3
-##### Sub-Titulo 4
-###### Sub-Titulo 5
+# \# Titulo:
+## \## Sub-Titulo 1:
+### \### Sub-Titulo 2:
+#### \#### Sub-Titulo 3:
+##### \##### Sub-Titulo 4:
+###### \###### Sub-Titulo 5:
 
 
 **NegritoComAsterisco** e __NegritoComSublinha__
