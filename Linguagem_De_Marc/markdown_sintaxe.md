@@ -1,6 +1,6 @@
 # Sintaxe basica -> markdown
 
-Em markdown é possivel fazer pequenas estilisações uma delas é o titulo, o qual possui seis tipos. Ao utilizar penas um '#' indica um titulo e ao adicionar outros vai se criando sub titulos e quanto mais hashtags menor é o tamanho do titulo. Outros tipos possiveis são o negrito, utilizando \** palavra ** ou \__ palavra __, para o italico, utilizado \* palavra * ou \_ palavra _, pode-se tambem riscar as palavras utilizando-se \~~ palavra ~~.
+Em markdown é possivel fazer pequenas estilizações uma delas é o titulo, o qual possui seis tipos. Ao utilizar penas um '#' indica um titulo e ao adicionar outros vai se criando sub titulos e quanto mais hashtags menor é o tamanho do titulo. Outros tipos possiveis são o negrito, utilizando \** palavra ** ou \__ palavra __, para o italico, utilizado \* palavra * ou \_ palavra _, pode-se tambem riscar as palavras utilizando-se \~~ palavra ~~.
 
 Outra posibilidade é a criação de listas ordenadas '1. ' ou não ordenadas '- '. Podemos também, por meio \[TextoDoLink](Link).
 
